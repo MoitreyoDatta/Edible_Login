@@ -69,6 +69,7 @@ i{
     background: rgba(255,255,255,0.7);
     cursor: pointer;
     transition: .3s ;
+    margin-bottom: 10px;
 }
 .submit:hover{
     box-shadow: 1px 5px 7px 1px rgba(0, 0, 0, 0.2);
