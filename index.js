@@ -11,8 +11,8 @@ function validate(){
     else{
         email.style.border="1px solid red";
         password.style.border="1px solid red"
-        let alert =  document.querySelector("header");
-        alert.textContent = "Incorrect Credentials !!";
+        let alert =  document.querySelector("#alert");
+        alert.textContent = "Wrong Credentials!";
         alert.style.visibility="visible";
         alert.style.color="red";
     }
