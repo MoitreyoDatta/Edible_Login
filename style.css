@@ -3,7 +3,7 @@
     font-family: 'Montserrat' ,sans-serif;
 }
 body{
-    background-image: url("images/1.gif");
+    background-image: url("images/1.avif");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -24,14 +24,14 @@ body{
     
 }
 span{
-    color: #2c2c2c;
+    color: #192841;
     font-size: larger;
     display: flex;
     justify-content: center;
     padding: 10px 0 10px 0;
 }
 header{
-    color: #2c2c2c;
+    color: #192841;
     font-size: 30px;
     display: flex;
     justify-content: center;
@@ -43,7 +43,7 @@ header{
     width: 87%;
     border: none;
     border-radius: 30px;
-    color: #2c2c2c;
+    color: #192841;
     font-size: 15px;
     padding: 0 0 0 45px;
     background: rgba(255,255,255,0.1);
@@ -53,10 +53,10 @@ i{
     position: relative;
     top: -33px;
     left: 17px;
-    color: #2c2c2c;
+    color: #192841;
 }
 ::-webkit-input-placeholder{
-    color: #2c2c2c;
+    color: #192841;
 }
 .submit{
     border: none;
@@ -78,7 +78,7 @@ i{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    color: #2c2c2c;
+    color: #192841;
     font-size:medium;
     margin-top: 10px;
 }
@@ -88,5 +88,5 @@ i{
 }
 label a{
     text-decoration: none;
-    color: #2c2c2c;
+    color: #192841;
 }
